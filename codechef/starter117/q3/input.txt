@@ -1,0 +1,9 @@
+4
+3
+abc
+3
+acb
+5
+magic
+5
+arise

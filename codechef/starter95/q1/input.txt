@@ -1,0 +1,9 @@
+4
+3
+A B A
+2
+A B
+4
+A B O B
+4
+O A A B

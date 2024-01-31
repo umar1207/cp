@@ -1,0 +1,6 @@
+output.txt
+error.txt
+*.exe
+*.out
+main
+.vscode
